@@ -6,7 +6,7 @@ Gem::Specification::new do |spec|
   spec.version = "0.0.4"
   spec.platform = Gem::Platform::RUBY
   spec.summary = "irbcp"
-  spec.description = "description: irbcp kicks the ass"
+  spec.description = "irbcp gives access to your system's clipboard (copy and paste) from irb"
 
   spec.files =
 ["README", "Rakefile", "irbcp.gemspec", "irbcp.rb", "lib", "lib/irbcp.rb"]
